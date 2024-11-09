@@ -181,34 +181,41 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall](https://github.com/user-attachments/assets/8141ac8f-51c9-4075-acc4-7ba1a6ddabbf)
+
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info](https://github.com/user-attachments/assets/c7658912-d28f-4159-86dd-2a492fa5be62)
+
 
 ## Finance View
+![Finace](https://github.com/user-attachments/assets/583e804e-2b2c-4db8-925b-ffc3edf93c52)
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+
 ## Sales View
+![Sales](https://github.com/user-attachments/assets/b10ee345-0afb-4f2c-ba61-01940dc6d929)
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/user-attachments/assets/a2f9270a-62fb-4e8b-b59c-f6b3c13d149e)
+
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![supply chain](https://github.com/user-attachments/assets/293b2072-c194-49e7-a834-ba158117fa4c)
+
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/user-attachments/assets/8ffe654f-26c9-4f74-872c-0811d333d7b5)
+
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products View](https://github.com/user-attachments/assets/3b8b27e5-79a0-4605-a62b-f6e54935dd23)
+
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
